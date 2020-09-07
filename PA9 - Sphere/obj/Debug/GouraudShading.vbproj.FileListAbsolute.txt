@@ -1,0 +1,84 @@
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbprojAssemblyReference.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.FormGouraud.resources
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.GenerateResource.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.CoreCompileInputs.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbprojAssemblyReference.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.FormGouraud.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbprojAssemblyReference.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.FormGouraud.resources
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.GenerateResource.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.CoreCompileInputs.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbprojAssemblyReference.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.FormGouraud.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - 2\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbprojAssemblyReference.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.FormGouraud.resources
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.GenerateResource.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.CoreCompileInputs.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+E:\Darryl\PU\Semester 7\3D CGA\PA19\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbprojAssemblyReference.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.FormGouraud.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbprojAssemblyReference.cache
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.FormGouraud.resources
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.GenerateResource.cache
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\GouraudShading.vbproj.CoreCompileInputs.cache
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+D:\Materi Kuliah\Semester 7\3D CGA\PA19 - Fix\PA19\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb

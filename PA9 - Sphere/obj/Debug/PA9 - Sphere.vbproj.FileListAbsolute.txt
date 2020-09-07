@@ -1,0 +1,60 @@
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbprojAssemblyReference.cache
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9___Sphere.FormSphere.resources
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbproj.GenerateResource.cache
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbproj.CoreCompileInputs.cache
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+C:\Users\Darryl\source\repos\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbprojAssemblyReference.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9___Sphere.FormSphere.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbprojAssemblyReference.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9___Sphere.FormSphere.resources
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbproj.GenerateResource.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbproj.CoreCompileInputs.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbprojAssemblyReference.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9___Sphere.FormSphere.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+C:\Users\user\Downloads\Materi  Kuliah\Semester 7\3D CGA\PA9 - Sphere 2\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe.config
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\bin\Debug\PA9 - Sphere.exe
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\bin\Debug\PA9 - Sphere.pdb
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\bin\Debug\PA9 - Sphere.xml
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbprojAssemblyReference.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\obj\Debug\PA9___Sphere.FormSphere.resources
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\obj\Debug\PA9___Sphere.Resources.resources
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbproj.GenerateResource.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\obj\Debug\PA9 - Sphere.vbproj.CoreCompileInputs.cache
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\obj\Debug\PA9 - Sphere.exe
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\obj\Debug\PA9 - Sphere.xml
+E:\Darryl\PU\Semester 7\3D CGA\PA9 - Sphere final\PA9 - Sphere\obj\Debug\PA9 - Sphere.pdb
